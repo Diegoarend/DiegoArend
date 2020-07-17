@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there
 **Diegoarend/DiegoArend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome folks!  👋 
+
+My name is Diego Arend, I'm a full-stack engineeer and this is my repo!  ⚡
+
+Since I'm a big fan of Javascript  😄 , you will find some NodeJS, Express, Sequelize, React and React Native! And of course, HTML and CSS! 
+
