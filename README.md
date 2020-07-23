@@ -24,3 +24,4 @@ Since I'm a big fan of Javascript  😄 , you will find some Node JS, Express, S
 
 ### Contact
 <code><a href="https://www.linkedin.com/in/diegoarend/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a></code>
+<code><a href="mailto:diegoaw@gmail.com" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a></code>
