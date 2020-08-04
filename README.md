@@ -20,7 +20,7 @@ Welcome folks!  👋
 
 My name is Diego Arend, I'm a full-stack engineeer and this is my repo!  ⚡
 
-Since I'm a big fan of Javascript  😄 , you will find some Node JS, Express, Sequelize, React and React Native! And of course, HTML and CSS! 
+Since I'm a big fan of Javascript  😄 , you will find some Node JS, Typescript, Express, Sequelize, React and React Native! And of course, HTML and CSS! 
 
 ### Contact
 <code><a href="https://www.linkedin.com/in/diegoarend/" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a></code>
